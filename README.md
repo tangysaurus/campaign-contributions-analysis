@@ -28,9 +28,6 @@ This project requires the following Python libraries:
 - plotly.express
 - dash
   
-To install these dependencies, you can run: 
-pip install -r requirements.txt
-
 ### Usage
 1. **Open the notebook**:
    - Download or open the Jupyter notebook from this repository.
