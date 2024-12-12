@@ -111,5 +111,5 @@ The following data sources were used in this project:
     - **Source**: [U.S. Census Bureau](https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html)
     - **Description**: This dataset provides voting age population estimates by race and ethnicity for every county.
 
-All datasets are publicly available and can be downloaded from the links provided above.
-Please refer to the individual sources for licensing details, terms of use, and citation requirements.
+  All datasets are publicly available and can be downloaded from the links provided above.
+  Please refer to the individual sources for licensing details, terms of use, and citation requirements.
