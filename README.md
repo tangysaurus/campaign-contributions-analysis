@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Data Sources
 
-All data on individual contributions is retrieved from the Federal Election Commission (FEC). [FEC Campaign Finance Data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
+All data on individual contributions is retrieved from the Federal Election Commission (FEC)[FEC Campaign Finance Data](https://www.fec.gov/data/browse-data/?tab=bulk-data).
 Please refer to the individual sources for licensing details, terms of use, and citation requirements.
