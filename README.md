@@ -11,10 +11,9 @@ This project analyzes every individual contribution record (from presidential el
 5. [Data Sources](#data-sources)
 
 ### Features
-- Analyze 44 million+ campaign contribution records.
-- Predict donation volumes for counties using gradient boosting regression.
-- Predict Democratic vote shares for the 2020 U.S. presidential election.
-- Visualize the correlation between donation volumes and socioeconomic factors.
+- Visualize change in contribution shares inequality from 1980 to 2024 using a lorenz curve.
+- Calculate gini coefficients to evaluate impact of campaign finance legislation on contribution shares among donors.
+- Investigate relationship between change in contributions shares inequality and the rise of Independent-Expenditure-Only Committees.
 
 ### Requirements
 This project requires the following Python libraries:
@@ -39,7 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Data Sources
 
-All data is retrieved from the FEC. [test](https://www.fec.gov/data/browse-data/?tab=bulk-data)
-
-  All datasets are publicly available and can be downloaded from the links provided above.
-  Please refer to the individual sources for licensing details, terms of use, and citation requirements.
+All data on individual contributions is retrieved from the Federal Election Commission (FEC). [FEC Campaign Finance Data](https://www.fec.gov/data/browse-data/?tab=bulk-data)
+Please refer to the individual sources for licensing details, terms of use, and citation requirements.
